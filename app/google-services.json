@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "936725741936",
+    "firebase_url": "https://paint-browser.firebaseio.com",
+    "project_id": "paint-browser",
+    "storage_bucket": "paint-browser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936725741936:android:38af1aa18db683cf",
+        "android_client_info": {
+          "package_name": "jk.paint.jksolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936725741936-r24esvojvatoht8kq3qtdb71r49rdt76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnumDyEQwpjTtYgAIGdcsXownIw3hUggA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-1419631500355407~8689166166"
+    }
+  ],
+  "configuration_version": "1"
+}
