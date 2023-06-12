@@ -1,8 +1,6 @@
-# PaintView
+# PaintBrowser
 
-[中文README](res/README_CN.md)
 
-[![Library Release](https://img.shields.io/badge/release-v1.17-green.svg)](https://github.com/LiuHongtao/PaintView)
 [![MIT License](http://img.shields.io/:license-MIT-blue.svg)](https://github.com/LiuHongtao/PaintView/blob/master/LICENSE)
 [![Android API](https://img.shields.io/badge/Android_API-9%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=9)
 
